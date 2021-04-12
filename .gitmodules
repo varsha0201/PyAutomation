@@ -1,0 +1,3 @@
+[submodule "PyAutomation"]
+	path = PyAutomation
+	url = https://github.com/varsha0201/PyAutomation
